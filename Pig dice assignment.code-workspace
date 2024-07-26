@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Dice kodecamp/dice-game"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Pig dice assignment"
+  }
+}
